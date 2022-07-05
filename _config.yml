@@ -267,7 +267,9 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+about_archive:
+  type: liquid
+  path: /about/
 
 # HTML Compression
 # - https://jch.penibelst.de/
