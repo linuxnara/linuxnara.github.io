@@ -7,5 +7,7 @@ tags: ["linux", "xhost", "terminal"]
 
 Failed to initialize Xfconf: Cannot autolaunch D-Bus without X11 $DISPLAY
 
+```
 $ xhost +
+```
 
