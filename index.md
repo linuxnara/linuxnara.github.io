@@ -5,8 +5,11 @@ author_profile: false
 
 ## 기술자료
 
-* linux
+* [linux]: /tags/linux
 * windows
 * macos
 * python
 * utility(자체 개발)
+
+
+
