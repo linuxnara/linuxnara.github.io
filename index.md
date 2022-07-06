@@ -6,11 +6,11 @@ author_profile: false
 
 ## 기술자료
 
-* [linux](/tags/linux)
-* [windows](/tags/windows)
-* [macos](/tags/macos)
-* [python](/tags/python)
-* [util(자체개발)](/tags/io)
+* [linux](/categories/#linux)
+* [windows](/categories/#windows)
+* [macos](/categories/#macos)
+* [python](/categories/#python)
+* [util(자체개발)](/categories/util)
 
 
 
