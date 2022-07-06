@@ -3,6 +3,7 @@ title: "root로 실행시 unable to init server: 연결할 수 없습니다: 연
 date: 2022-07-05 16:43
 categories: ["linux"]
 tags: ["linux", "xhost", "terminal"]
+comments: true
 ---
 
 리눅스 xwindow에서 터미널 실행 후 윈도우 프로그램을 실행할때 로그인한 계정의 권한으로 실행 할 경우는 

@@ -3,6 +3,7 @@ title: "ls 시 날짜별 정렬"
 date: 2022-07-05 17:00
 categories: ["linux"]
 tags: ["linux", "ls", "sort", "정렬"]
+comments: true
 ---
 
 ```
