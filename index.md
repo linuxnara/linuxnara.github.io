@@ -1,4 +1,5 @@
 ---
+title: "linuxnara home"
 layout: home
 author_profile: false
 ---
