@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "rudolph"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "java, python, c# 등 기술자료 정리목적으로 게시하고 있습니다"
   location         : ""
   email            : "mobile.sjs@gmail.com"
   links:
