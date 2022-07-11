@@ -10,7 +10,7 @@ author_profile: false
 * [windows](/categories/#windows)
 * [macos](/categories/#macos)
 * [python](/categories/#python)
-* [util(자체개발)](/categories/util)
+* [util(자체개발)](/categories/#util)
 
 
 
