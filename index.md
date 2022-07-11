@@ -12,7 +12,7 @@ author_profile: false
 * [python](/categories/#python)
 
 ## 기타 
-* [util(자체개발)](/categories/#util)
+* [util](/categories/#util)
 
 
 
